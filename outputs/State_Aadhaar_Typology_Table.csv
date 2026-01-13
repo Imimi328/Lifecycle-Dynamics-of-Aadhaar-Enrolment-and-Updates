@@ -1,0 +1,30 @@
+state,demo_updates_per_million,biometric_updates_per_million,aadhaar_update_typology
+Tamil Nadu,30662.77295129128,65118.6472956683,Type I – Administrative-heavy
+Punjab,31787.631322517864,62705.90078237883,Type I – Administrative-heavy
+Odisha,26494.001627379934,58725.57292193031,Type I – Administrative-heavy
+Jammu And Kashmir,32468.877633279222,63123.19087762977,Type I – Administrative-heavy
+Andhra Pradesh,46481.69240529236,75215.0994843784,Type II – Lifecycle-driven
+Tripura,37565.62818376136,79521.39365151689,Type II – Lifecycle-driven
+Rajasthan,41104.00066452281,58279.30110208056,Type II – Lifecycle-driven
+Mizoram,38193.37480837692,109668.55813766968,Type II – Lifecycle-driven
+Manipur,105591.99998319206,98952.16531724628,Type II – Lifecycle-driven
+Uttarakhand,45967.53693032087,75822.21494281547,Type II – Lifecycle-driven
+Madhya Pradesh,40108.30215602616,81564.52254428527,Type II – Lifecycle-driven
+Maharashtra,44980.040059503626,82101.83547874763,Type II – Lifecycle-driven
+Chhattisgarh,78505.4787987942,103688.13739474636,Type II – Lifecycle-driven
+Jharkhand,42475.54590386956,61425.02634432127,Type II – Lifecycle-driven
+Haryana,45998.92503241036,64511.2301610061,Type II – Lifecycle-driven
+Uttar Pradesh,42751.75375679123,47933.65090497589,Type III – High-stress
+Telangana,46312.127603193934,49373.61727054555,Type III – High-stress
+Bihar,46247.601764512656,47047.19290933443,Type III – High-stress
+West Bengal,84857.62129556018,55318.28343044618,Type III – High-stress
+Goa,24078.79084978523,46893.99367177564,Type IV – Low-interaction
+Karnataka,27748.207853052914,43144.95762251553,Type IV – Low-interaction
+Gujarat,30184.253751657103,52887.66196889289,Type IV – Low-interaction
+Sikkim,33312.75170862971,37374.48348038003,Type IV – Low-interaction
+Assam,32448.623925416407,31491.87183726396,Type IV – Low-interaction
+Meghalaya,29451.05125267578,29534.6404937967,Type IV – Low-interaction
+Arunachal Pradesh,26336.84245519528,52318.12344487027,Type IV – Low-interaction
+Himachal Pradesh,21736.72996628209,57721.33621148029,Type IV – Low-interaction
+Nagaland,18595.38175852236,55391.90761495313,Type IV – Low-interaction
+Kerala,22299.905397406776,48186.76467123736,Type IV – Low-interaction
