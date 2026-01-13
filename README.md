@@ -39,7 +39,7 @@ occur continuously, their <em>intensity, composition, and drivers vary significa
       <li>State-wise Aadhaar enrolment counts by age groups</li>
       <li>Demographic and biometric updates</li>
       <li>Socio-demographic indicators (literacy, population structure, migration intensity)</li>
-      <li>Normalised interaction scores (per million population)</li>
+      <li>Non-Normalised interaction scores</li>
     </ul>
   </li>
 </ul>
