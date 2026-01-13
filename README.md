@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Lifecycle Dynamics of Aadhaar Enrolment and Updates</title>
-</head>
+
 <body>
 
 <h1>Lifecycle Dynamics of Aadhaar Enrolment and Updates</h1>
