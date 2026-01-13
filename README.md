@@ -58,31 +58,6 @@ You can use this file to reproduce figures, build new models, or extend the anal
 
 <hr>
 
-<h2>⚙️ How to Use the Dataset</h2>
-
-<p>
-You can open the dataset in any standard analysis environment (Pandas, R, Excel). Below is an example of loading it using Python and Pandas:
-</p>
-
-<pre>
-import pandas as pd
-
-# Replace path with local path after downloading
-df = pd.read_csv("combined_aadhaar_state_data.csv")
-
-print(df.head())
-</pre>
-
-<p>
-Ensure you have installed <code>pandas</code> if running locally:
-</p>
-
-<pre>
-pip install pandas
-</pre>
-
-<hr>
-
 <h2>📑 Paper & Resources</h2>
 
 <ul>
